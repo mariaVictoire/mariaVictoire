@@ -9,7 +9,7 @@ Initially, this project will focus on solving the famous Mastermind problem usin
 
 Finally, a crucial step is to generalize the code developed, in order to create a common base capable of solving a wide range of optimization problems. 
 
-
+:bulb: You can 
 
 
 
