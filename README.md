@@ -1,5 +1,6 @@
 
-![Logo](https://upload.wikimedia.org/wikipedia/fr/e/e9/EPF_logo_2021.png)
+<img src="https://upload.wikimedia.org/wikipedia/fr/e/e9/EPF_logo_2021.png" alt="Logo" width="300">
+
 
 
 # Welcome to this GitHub project!
